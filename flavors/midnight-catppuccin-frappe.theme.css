@@ -88,7 +88,7 @@
 
 /* catppuccin icon */
 .childWrapper__760c6:has(> svg:not(.favoriteIcon_adf80e)) {
-	background: url('https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png');
+	background: url('https://raw.githubusercontent.com/7Yuki/midnight-discord/master/flavors/midnight-catppuccin-frappe.theme.css');
 	background-color: transparent !important;
 	background-size: cover;
 }
